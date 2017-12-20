@@ -1,0 +1,13 @@
+# my specific ignores
+docs/
+
+# generic netcore ignores
+**/bin/
+**/obj/
+**/.git/
+**/.vs/
+**/global.json
+**/Dockerfile*
+**/.dockerignore*
+**/docker-compose*.yml
+**/*.user
